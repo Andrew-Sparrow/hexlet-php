@@ -1,0 +1,17 @@
+{
+    "name": "andrew-sparrow/hexlet-php",
+    "description": "training project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "AndrewSparrow\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Pechers",
+            "email": "8911102@gmail.com"
+        }
+    ],
+    "require": {}
+}
