@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "AndrewSparrow\\HexletPhp\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
