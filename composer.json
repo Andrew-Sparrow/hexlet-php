@@ -13,5 +13,7 @@
             "email": "8911102@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
